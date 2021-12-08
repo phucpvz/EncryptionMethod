@@ -1,0 +1,10 @@
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\bin\Debug\EncryptionMethod.exe.config
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\bin\Debug\EncryptionMethod.exe
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\bin\Debug\EncryptionMethod.pdb
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\obj\Debug\EncryptionMethod.csprojAssemblyReference.cache
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\obj\Debug\EncryptionMethod.Form1.resources
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\obj\Debug\EncryptionMethod.Properties.Resources.resources
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\obj\Debug\EncryptionMethod.csproj.GenerateResource.cache
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\obj\Debug\EncryptionMethod.csproj.CoreCompileInputs.cache
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\obj\Debug\EncryptionMethod.exe
+D:\Projects\Data\EncryptionMethod\EncryptionMethod\obj\Debug\EncryptionMethod.pdb
